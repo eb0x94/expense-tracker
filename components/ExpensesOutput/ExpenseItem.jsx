@@ -45,7 +45,7 @@ const styles = StyleSheet.create({
         elevation: 4,
         shadowColor: GlobalStyles.colors.gray500,
         shadowRadius: 4,
-        shadowRadius: { width: 1, height: 1 },
+        shadowOffset: { width: 1, height: 1 },
         shadowOpacity: 0.5,
     },
     textBase: {
